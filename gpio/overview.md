@@ -1,5 +1,10 @@
 # Pi GPIO
 
+## Show pin map
+
+In RP terminal:
+`pinout`
+
 ## Wires:
 
 red:positive
